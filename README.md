@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4&height=300&section=header&text=Hello,%20I'm%20Cole!&desc=Database%20enjoyer%20•College%20Grad%202026&descAlignY=68&descAlign62&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4&height=300&section=header&text=Hello,%20I'm%20Cole!&desc=Database%20enjoyer%20•%20College%20Grad%202026&descAlignY=68&descAlign62&fontSize=90" />
 </p>
 
 ```yaml
