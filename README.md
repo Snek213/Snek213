@@ -20,21 +20,11 @@ fields_of_intrest:
   "Server Managment"
 ]
 
-technical_background
-[
-
-]
-
-languages_experience
-[
-
-]
-
 2026 Goals: ["Undecided"]
 hobbies: ["Undecided"]
 ```
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> ⭐ &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="vstudio" width="45" height="45"/>
@@ -45,13 +35,5 @@ hobbies: ["Undecided"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="js" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>
-          
-          
-          
-          
-                  
-          
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>   
 </p>
