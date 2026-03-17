@@ -21,7 +21,6 @@ fields_of_intrest:
 ]
 
 2026 Goals: ["Undecided"]
-hobbies: ["Undecided"]
 ```
 
 <h2> ⭐ &nbsp;Primary Skills</h2>
